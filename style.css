@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 100px;
+}
+
+button {
+  padding: 10px ;
+  margin: 30px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+#redBtn { background-color: red; color}
+#blueBtn { background-color: blue; color}
+#greenBtn { background-color: green; color}
+#resetBtn { background-color: gray; color}
